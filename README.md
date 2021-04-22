@@ -1,7 +1,9 @@
 # MSU-ECE480-09-ClassifficationWithmmWave
 
-MSU ECE480 SS21 Team 9 Capstone\n
+MSU ECE480 SS21 Team 9 Capstone
+
 Project Sponsor: TI
+
 Team Members: Breanna, Jason, Josh, Weikang and Zoe
 
 Getting Started:
