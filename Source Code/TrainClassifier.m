@@ -40,7 +40,7 @@ function result = TrainClassifier(files)
     labels = [];
     
     for i = 1:length(files)
-        output = FeatureParsing_modified(files{i});
+        output = FeatureParsing(files{i});
         bigarray = [bigarray; output{1}];
         labels = [labels output{2}];
     end
