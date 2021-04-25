@@ -1,3 +1,5 @@
+%  mmWave Demo Visualizer, Copyright © 2020, Texas Instruments Incorporated 
+
 clear, clc, close all;
 delete(instrfind);
 
